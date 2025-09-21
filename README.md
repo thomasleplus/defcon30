@@ -1,5 +1,11 @@
 # defcon 30 SAOs
 
+> [!Note]
+> This a fork of
+> [hamster/defcon30](https://github.com/hamster/defcon30) created for
+> my own usage and for preservation. I am not the author of this
+> code. All credit goes to [@hamster](https://github.com/hamster).
+
 Hello! I'm [@hamster](https://twitter.com/hamster) and I was honored this year to be able to make a couple of SAOs for defcon. I tried to make these simple and fun, and I hope you enjoy them.
 
 The first one is the [SAO Modem 1.69bis](modem), which is a throwback to the days of the external Courier modem screaming away at the internet. It does not actually communicate with the internet, but it sure is blinky.
